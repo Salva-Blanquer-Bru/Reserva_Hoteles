@@ -1,0 +1,5 @@
+1 individual 20 true
+2 premium 20 false
+3 individual 20 true
+4 doble 20 true
+5 doble 20 true
